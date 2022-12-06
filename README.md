@@ -12,7 +12,7 @@ My name is Islam Goher, and I am a Backend Engineer
 - 📚 I am into Philosophy, Logic, Novels.
 - 💻 I do JavaScript/TypeScript, node.js, Java, spring boot, SQL, MongoDB.
 - 📫 You can reach me via `islam.m.goher@gmail.com`
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1u0AQ-nM7piYd8CTxPEnCLi7S6tad-P7v/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1uQiqjo_pwPe9iFBY85Bdwc2VvM-gYLEi/view?usp=sharing)
 
 ### OS
 <p align="left"> 
